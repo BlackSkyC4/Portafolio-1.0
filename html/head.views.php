@@ -26,4 +26,14 @@ https://templatemo.com/tm-528-elegance
 
 <link rel="stylesheet" href="css/responsive.css">
 
+<!--Arquivos Java adicionais-->
+
+<link rel="stylesheet" href="owl.carousel.min.css">
+
+<link rel="stylesheet" href="owl.theme.default.min.css">
+
+<script src="jquery.min.js"></script>
+
+<script src="owl.carousel.min.js"></script>
+
 </head>

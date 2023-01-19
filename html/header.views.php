@@ -13,8 +13,8 @@
                                     <li data-menuanchor="slide02"><a href="#slide02">Quem sou?</a></li>
                                     <li data-menuanchor="slide03"><a href="#slide03">Serviços</a></li>
                                     <li data-menuanchor="slide04"><a href="#slide04">Habilidades</a></li>
-                                    <li data-menuanchor="slide05"><a href="#slide05">Meus trabalhos</a></li>
-                                    <li data-menuanchor="slide06"><a href="#slide06">Contato</a></li>
+                                    <!--li data-menuanchor="slide05"><a href="#slide05">Meus trabalhos</a></li-->
+                                    <li data-menuanchor="slide05"><a href="#slide05">Contato</a></li>
                                 </ul>
                             </div>
                         </nav>

@@ -3,8 +3,8 @@
                     <div class="row justify-content-center">
                         <div class="col-md-8 wide-col-laptop">
                             <div class="title-block animate" data-animate="fadeInUp">
-                                <span>My Work</span>
-                                <h2>what i’ve done?</h2>
+                                <span>Meus trabalhos</span>
+                                <h2>trabalhos realizado até agora</h2>
                             </div>
                             <div class="gallery-section">
                                 <div class="gallery-list owl-carousel">
@@ -14,7 +14,7 @@
                                                 <img src="images/item-1.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>templatemo is the best</h4>
+                                                <h4>Loja virtual</h4>
                                                 <p>Please tell your friends about it. Templatemo is the best website to download free Bootstrap CSS templates.</p>
                                             </div>
                                         </div>
@@ -25,7 +25,7 @@
                                                 <img src="images/item-2.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>templatemo is the best</h4>
+                                                <h4>Landing pages</h4>
                                                 <p>Please tell your friends about it. Templatemo is the best website to download free Bootstrap themes.</p>
                                             </div>
                                         </div>
@@ -36,7 +36,7 @@
                                                 <img src="images/item-3.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>templatemo is the best</h4>
+                                                <h4>Resumes Onlinet</h4>
                                                 <p>Please tell your friends about it. Templatemo is the best website to download free Bootstrap layouts.</p>
                                             </div>
                                         </div>

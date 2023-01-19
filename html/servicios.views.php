@@ -3,7 +3,7 @@
                     <div class="row justify-content-center">
                         <div class="col-md-8 wide-col-laptop">
                             <div class="title-block animate" data-animate="fadeInUp">
-                                <span>Services</span>
+                                <span>Serviços</span>
                                 <h2>O que eu faço?</h2>
                             </div>
                             <div class="services-section">
